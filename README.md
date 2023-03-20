@@ -5,9 +5,10 @@
 종이 질감의 오브젝트와 몽환적인 디자인과 사운드
 
 ## Game Screenshots
-[video]()
+[video](youtube)
 
 ## How to Play
 
 ## Contributing
+
 
