@@ -5,9 +5,17 @@
 종이 질감의 오브젝트와 몽환적인 디자인과 사운드
 
 ## Game Screenshots
+[chapter1](https://github.com/Jinho227/PaperLayer/screenshots/chapter1.png?raw=true)
+[chapter2](https://github.com/Jinho227/PaperLayer/screenshots/chapter2.png?raw=true)
+[chapter3](https://github.com/Jinho227/PaperLayer/screenshots/chapter3.png?raw=true)
 [video](youtube)
 
 ## How to Play
+아이콘을 컨트롤해 해당 챕터의 착시 퍼즐을 푼다.  
+  
+아이콘을 길게 눌러 아이콘을 움직이게 하고 아이콘의 순서를 바꾸어 오브젝트의 순서를 바꾼다.  
+특정 아이콘은 순서를 변경할 때 마다 오브젝트가 회전한다.  
+특정 아이콘을 누를 때 반전시킨다.
 
 ## Contributing
 
