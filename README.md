@@ -5,7 +5,7 @@
 종이 질감의 오브젝트와 몽환적인 디자인과 사운드
 
 ## Game Screenshots
-[chapter1](https://github.com/Jinho227/PaperLayer/screenshots/chapter1.png?raw=true)
+[chapter1](./screenshots/chapter1.png)
 [chapter2](https://github.com/Jinho227/PaperLayer/screenshots/chapter2.png?raw=true)
 [chapter3](https://github.com/Jinho227/PaperLayer/screenshots/chapter3.png?raw=true)
 [video](youtube)
