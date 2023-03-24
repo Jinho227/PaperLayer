@@ -6,8 +6,11 @@
 
 ## Game Screenshots
 <img src="./screenshots/chapter1.png">
-[chapter2](https://github.com/Jinho227/PaperLayer/screenshots/chapter2.png?raw=true)
-[chapter3](https://github.com/Jinho227/PaperLayer/screenshots/chapter3.png?raw=true)
+chapter1
+<img src="./screenshots/chapter2.png">
+chapter2
+<img src="./screenshots/chapter3.png">
+chapter3
 [video](youtube)
 
 ## How to Play
