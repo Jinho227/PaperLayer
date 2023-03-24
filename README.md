@@ -5,12 +5,12 @@
 종이 질감의 오브젝트와 몽환적인 디자인과 사운드
 
 ## Game Screenshots
-<img src="./screenshots/chapter1.png">
 chapter1
-<img src="./screenshots/chapter2.png">
+<img src="./screenshots/chapter1.png">
 chapter2
-<img src="./screenshots/chapter3.png">
+<img src="./screenshots/chapter2.png">
 chapter3
+<img src="./screenshots/chapter3.png">  
 [video](youtube)
 
 ## How to Play
