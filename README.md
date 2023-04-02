@@ -11,7 +11,7 @@ chapter2
 <img src="./screenshots/chapter2.png">
 chapter3
 <img src="./screenshots/chapter3.png">  
-[video](youtube)
+[video](https://youtu.be/kkXVNqxAnPg)
 
 ## How to Play
 아이콘을 컨트롤해 해당 챕터의 착시 퍼즐을 푼다.  
